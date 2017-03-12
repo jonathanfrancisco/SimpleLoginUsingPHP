@@ -1,0 +1,9 @@
+/**** ADD CUSTOM CSS HERE IF YOU WANT ****/
+
+.message-box h3 {
+  display: inline-block;
+}
+
+a {
+  font-size: 1.25em;
+}

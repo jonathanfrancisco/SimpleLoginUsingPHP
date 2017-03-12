@@ -1,2 +1,3 @@
 # SimpleLoginUsingPHP
-A simple login using PHP and MySQL
+
+Note: Beware spaghetti code up ahead.
